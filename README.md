@@ -44,16 +44,15 @@ The platform combines artificial intelligence with training management to simpli
 
 | Login | Register |
 |--------|----------|
-| ![Login](login.png) | ![Register](register.png) |
+| ![Login](login.PNG) | ![Register](register.PNG) |
 
 | Supervisor Dashboard | Intern Dashboard |
 |----------------------|------------------|
-| ![Supervisor Dashboard](supervisor-dashboard.png) | ![Intern Dashboard](intern-dashboard.png) |
+| ![Supervisor Dashboard](supervisor-dashboard.PNG) | ![Intern Dashboard](intern-dashboard.PNG) |
 
 ### AI Evaluation
 
-![AI Evaluation](ai_evaluate.png)
-
+![AI Evaluation](ai_evaluate.PNG)
 ---
 
 ## Project Status
