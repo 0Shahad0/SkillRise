@@ -40,6 +40,29 @@ The platform combines artificial intelligence with training management to simpli
 - LLM Integration
 
 ---
+## Screenshots
+
+### Login
+
+![Login](login.png)
+
+### Register
+
+![Register](register.png)
+
+### Supervisor Dashboard
+
+![Supervisor Dashboard](supervisor-dashboard.png)
+
+### Intern Dashboard
+
+![Intern Dashboard](intern-dashboard.png)
+
+### AI Evaluation
+
+![AI Evaluation](ai_evaluate.png)
+
+---
 
 ## Project Status
 
